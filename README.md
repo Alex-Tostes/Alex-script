@@ -2,7 +2,7 @@
 Calculadora simples com cada passo e requisito detalhado e comentado.
 
 Tornar executável:
-chmod+x executar.sh
+
 ./Alex-script.sh
 
 Esta seção detalha a lógica de desenvolvimento do script Python para a Calculadora.
@@ -22,3 +22,4 @@ A lógica do programa está dividida nos seguintes pilares:
 * *Linguagem:* Python 3.x
 * *Entrada de Dados:* Função input() com conversão de tipo.
 * *Saída de Dados:* Função print() com formatação para exibição dos resultados.
+
